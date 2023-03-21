@@ -1,0 +1,14 @@
+.banner{
+    height:650px;
+    object-fit: contain;
+}
+.banner-content{
+    padding-top: 450px;
+    margin-left: 50px;
+    text-shadow: 2px 2px 4px black;
+}
+.banner-overview{
+    line-height: 30px;
+    text-shadow: 2px 1px 4px black;
+
+}
